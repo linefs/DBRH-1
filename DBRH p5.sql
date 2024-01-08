@@ -1,0 +1,1 @@
+UPDATE tb_info SET salario = 1450.00 WHERE Id = 10;
